@@ -2,11 +2,13 @@
 Addition and Subtraction (from left to right)'''
 
 print ("I will now count my chickens:")
-
+# divides and adds
 print ("Hens", int(25 + 30 / 6))
+# multiplies, mods and then subtracts
 print ("Roosters", 100 - 25 * 3 % 4)
 
 print ("Now I will count the eggs:")
+#mods,divides,adds and then subtracts
 print (round(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6))
 
 print ("Is it true that 3 + 2 < 5 - 7?")
