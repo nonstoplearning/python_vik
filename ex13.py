@@ -6,7 +6,7 @@ fourth = input("Enter your fourth variable: ")
 fifth = input("Enter your fifth variable: ")
 
 print ("Together, your first variable is %r, your second variable is %r, your third variable is %r, "
-       "your fourth variable is %r, your fifth variable is %r," % (first, second, third, fourth, fifth))
+       "your fourth variable is %r, your fifth variable is %r" % (first, second, third, fourth, fifth))
 
 """
 github vikram.talware$ python ex13.py stuff things
